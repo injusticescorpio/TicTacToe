@@ -1,4 +1,3 @@
-import os
 print("########################")
 print('Welcome to TicTacToe game')
 print("########################")
